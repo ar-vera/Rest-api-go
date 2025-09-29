@@ -4,7 +4,7 @@
 
 ## Фронтенд часть
 
-Фронтенд приложения доступен здесь: [ссылка на репозиторий фронтенда][(https://github.com/EvgenyMentor/CalculatorAppFrontendPantela)]
+Фронтенд приложения доступен здесь: [(https://github.com/EvgenyMentor/CalculatorAppFrontendPantela)]
 
 ## Функциональность
 
